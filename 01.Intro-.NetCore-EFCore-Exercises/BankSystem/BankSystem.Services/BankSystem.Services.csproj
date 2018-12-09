@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankSystem.Data\BankSystem.Data.csproj" />
+    <ProjectReference Include="..\BankSystem.Models\BankSystem.Models.csproj" />
+  </ItemGroup>
+
+</Project>
